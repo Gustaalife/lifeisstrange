@@ -15,8 +15,8 @@ html,body{
     align-items: center;
 }
 
-{
-        margin: 0 auto;
+*{
+        margin: 5 auto;
         padding: 0;
         box-sizing: border-box;
         font-family: 'Oswald', sans-serif;
