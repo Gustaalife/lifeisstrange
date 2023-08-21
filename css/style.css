@@ -36,4 +36,8 @@
     flex-direction: column;
     }
 }
+.chat {
+    position: fixed;
+}
+
 
