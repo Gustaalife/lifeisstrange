@@ -8,6 +8,13 @@ html,body{
     margin: 0;
 }
 
+.chat{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 *{
         margin: 0 auto;
         padding: 0;
