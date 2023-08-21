@@ -9,7 +9,7 @@
 
 #menu-horizontal{
     list-style-type: none;
-    padding: 5;
+    padding: 0;
     background-color: rgb(0, 0, 0);
 }
 
@@ -23,5 +23,17 @@
     display: inline-block;
     text-decoration: none;
     display: inline;
+}
+
+.produto-container{
+    display: flex;
+    width:100%;
+    justify-content: space-around;
+}
+@media screen and (max-width: 768px){
+    .produto-container{
+    width:100%;
+    flex-direction: column;
+    }
 }
 
