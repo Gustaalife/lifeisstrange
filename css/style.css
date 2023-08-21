@@ -9,7 +9,7 @@ html,body{
 }
 
 .chat{
-    height: 60%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
