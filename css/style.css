@@ -58,4 +58,7 @@ html,body{
     Top: 0;
     Right: 0;
 }
+#audio::-webkit-media-controls-timeline-progress-bar {
+    background-color: blue;
+}
 
