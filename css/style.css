@@ -55,7 +55,7 @@ html,body{
     width: 100%;
     height: 100%;
     position: fixed;
-    Top: 0;
+    bottom: 0
     Right: 0;
 }
 #audio::-webkit-media-controls-timeline-progress-bar {
